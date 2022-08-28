@@ -9,5 +9,4 @@ public class Foo {
 		System.out.println("hello worlds");
 		System.out.println("new line of code");
 	}
-
 }
